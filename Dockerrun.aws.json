@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "mannginxjits/multi-nginx",
+            "image": "manjits/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings" :[
